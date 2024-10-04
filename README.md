@@ -30,13 +30,13 @@
 1. **Склонируйте репозиторий:**
 
    ```bash
-   git clone https://github.com/antiQuarianN/get-fragmentation.git
+   git clone https://github.com/antiQuarianN/get-extraction.git
    ```
 
 2. **Перейдите в директорию проекта:**
 
    ```bash
-   cd get-fragmentation
+   cd get-extraction
    ```
 
 3. **Установите необходимые пакеты:**
