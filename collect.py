@@ -415,7 +415,7 @@ def show_help():
 
 # Функция показа информации о программе
 def show_about():
-    info = f"{translate('version')}: 3.0\n{translate('author')}: antiQuarianN\n{translate('license')}: MIT License"
+    info = f"{translate('version')}: 3.0\n{translate('author')}: xxrxtnxxov\n{translate('license')}: MIT License"
     messagebox.showinfo(translate('about'), info)
 
 # Настройка языковых опций
